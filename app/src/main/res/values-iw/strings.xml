@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"\n        2nd lesson\n    "</string>
+    <string name="btnClickIt">סטרינג חדש</string>
+    <string name="btnClickMe">הקלק אותי</string>
+</resources>

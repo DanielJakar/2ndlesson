@@ -9,5 +9,6 @@ public class HelloWorld2Activity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_hello_world2);
+        // This is where we write the code:
     }
 }

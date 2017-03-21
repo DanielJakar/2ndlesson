@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">2nd lesson</string>
+
+    <string name="btnClickMe">Click Me</string>
+    <string name="btnClickIt">New String</string>
+    <string name="tvHello">Hello</string>
 </resources>
